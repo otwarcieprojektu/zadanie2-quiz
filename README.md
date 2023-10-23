@@ -1,4 +1,4 @@
-# zadanie2-quiz
+# Zadanie2 - Quiz
 
 Stwórz w C++ quiz konsolowy zadający użytkownikowi około 5 pytań i zliczający wynik punktowy. Zrefaktoryzuj kod, który możesz wybrać np. stąd:
 
